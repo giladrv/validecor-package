@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ValiDecor"
-version = "1.0.2"
+version = "1.0.3"
 description = "Decorated, Annotated, Validated"
 readme = "src/ValiDecor/README.md"
 authors = [{ name = "giladooshlon", email = "giladrv@gmail.com" }]
