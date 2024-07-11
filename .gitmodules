@@ -1,0 +1,3 @@
+[submodule "src/ValiDecor"]
+	path = src/ValiDecor
+	url = https://github.com/giladrv/validecor.git
